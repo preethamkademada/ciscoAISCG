@@ -4,6 +4,7 @@
 
 ### Claude Session
 c002f007-38b4-46fd-b30d-f64f5ed9d506
+claude --resume c002f007-38b4-46fd-b30d-f64f5ed9d506
 
 ### Changes Made
 
